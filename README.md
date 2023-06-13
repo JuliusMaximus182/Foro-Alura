@@ -1,5 +1,5 @@
 <div align="left">
-<h1><img src="" alt="hotel_alura" width="100" height="100"/>  FORO ALURA</h1> 
+<h1><img src="https://github.com/JuliusMaximus182/Foro-Alura/blob/master/readme-img/Inicio.png" alt="foro_alura" width="100" height="100"/>  FORO ALURA</h1> 
 </div>
 
 <hr>
